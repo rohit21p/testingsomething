@@ -1,0 +1,31 @@
+Flex Direction
+	flex row
+		items will be in same line
+		height will be stretched
+		width will be according to content
+		row will start from left (left is the flex start)
+	flex row-reverse
+		items will be in same line
+		height will be stretched
+		width will be according to content
+		row will start from right (right is the flex start)
+	flex column
+		items will be in different line
+		width will be stretched
+		height will be according to content
+		column will start from top (top is the flex start)
+	flex column-reverse
+		items will be in different line
+		width will be stretched
+		height will be according to content
+		column will start from bottom (bottom is the flex start)
+
+Justify Content
+	if direction is row, it will align horizontally
+	if direction is column, it will align vertically
+	values: flex-start, flex-end, space-between, space-evenly, space-around, center
+
+Align Items
+	if direction is row, it will align vertically
+	if direction is column, it will align horizontally
+	values: flex-start, flex-end, center

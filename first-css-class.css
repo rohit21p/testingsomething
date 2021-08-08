@@ -1,0 +1,39 @@
+i {
+    font-size: 40px;
+}
+
+.parent {
+    border: 20px solid green;
+    background-color: yellow;
+    height: 800px;
+}
+
+.child1 {
+    border: 20px solid blue;
+    background-color: red;
+    height: 300px;
+}
+
+.child2 {
+    border: 20px solid white;
+    background-color: black;
+    height: 300px;
+}
+
+.child3 {
+    border: 20px solid pink;
+    background-color: orange;
+    height: 100px;
+}
+
+.child4 {
+    border: 20px solid pink;
+    background-color: crimson;
+    height: 100px;
+}
+
+p {
+    margin: 0;
+    display: inline-block;
+    width: 100px;
+}
